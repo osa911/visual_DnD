@@ -1,6 +1,5 @@
 ## Visual Drag n Drop
 
----
 We can use the webcam for drag pre-drawn elements on the screen
 
 Application use `cvzone` and `mediapipe` packages
